@@ -2,6 +2,8 @@
 
 ![システム概要](image.png)
 
+<video src="output.mp4" controls muted autoplay loop></video>
+
 ## システムの概要
 
 Python と OpenCV を用いて、2枚の顔画像間のモーフィング動画（MP4）を自動生成するツール
