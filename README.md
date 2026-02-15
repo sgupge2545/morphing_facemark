@@ -2,7 +2,7 @@
 
 ![システム概要](image.png)
 
-<video src="output.mp4" controls muted autoplay loop></video>
+![デモ](output.gif)
 
 ## システムの概要
 
